@@ -1,0 +1,34 @@
+/* Exemplo de CSS personalizado */
+body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  footer {
+    background-color: #222;
+  }
+  
+  .card img {
+    max-height: 200px;
+    object-fit: cover;
+  }
+  
+  .navbar {
+    margin-bottom: 20px;
+  }
+  
+  #produtos {
+    background-color: #f8f9fa;
+  }
+  
+  section {
+    padding: 60px 0;
+  }
+  
+  section#contato form .form-label {
+    font-weight: bold;
+  }
+  
